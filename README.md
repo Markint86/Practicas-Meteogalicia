@@ -3,9 +3,9 @@ Programas desarrollados durante mis prácticas en Meteogalicia
 
 Por orden cronológico de desarrollo:
 
-1.calcular_tendencias
+1.calcular_tendencias.ipynb
 
-2.calcular_tendencias(2)
+2.calcular_tendencias(2).ipynb
 
 3.Representación_mapas_FrecuenciaRelativa_Proyeccion_PlateCarree_Para-Todas-Las-Clases.ipynb
 
