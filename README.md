@@ -1,6 +1,8 @@
 # Practicas-Meteogalicia
 Programas desarrollados durante mis prácticas en Meteogalicia
 
+Por orden cronológico de desarrollo:
+
 1.calcular_tendencias
 
 2.calcular_tendencias(2)
